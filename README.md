@@ -4,7 +4,7 @@ My name is Ali!
 
 I have just started making my way in engineering! (Someone who is recently graduated.😅)
 
-- 😊 I'm interested in the digital world!
+- 😊 I'm interested in the world of digital design!
 - 🌱 I’m currently learning about CGRAs.
 - 💬 Ask me about logic circuits, that's the art of my life!
 - 🎸 I'm a electric guitar player!
