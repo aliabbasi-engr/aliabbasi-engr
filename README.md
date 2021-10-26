@@ -7,7 +7,7 @@ I have just started making my way in engineering! (Someone who is recently gradu
 - 😊 I'm interested in the world of digital design!
 - 🌱 I’m currently learning about CGRAs.
 - 💬 Ask me about logic circuits, that's the art of my life!
-- 🎸 I'm a electric guitar player!
+- 🎸 I'm an electric guitar player!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aliabbasi-engr/)
 
 
