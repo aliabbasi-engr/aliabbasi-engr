@@ -2,10 +2,10 @@
 
 My name is Ali!
 
-I have just started making my way in engineering! (Someone who hs recently started his graduate studies.😅)
+I have just started making my way in engineering! (Someone who has recently started his graduate studies.😅)
 
 - 😊 I'm interested in the world of digital design!
-- 🌱 I’m currently learning about memory controllers.
+- 🌱 I’m currently working on AXI-compliant memory simulation and memory controllers.
 - 💬 Ask me about logic circuits, that's the art of my life!
 - 🎸 I'm an electric guitar player!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aliabbasi-engr/)
