@@ -8,7 +8,7 @@ I’m a Ph.D. candidate in Electrical and Computer Engineering at McMaster Unive
 - 🌱 I’m currently working on DDR4 memory controllers, memory-system regulation, and hardware-software co-simulation.
 - ⚙️ I work with SystemVerilog, RTL design and verification, and FPGA prototyping.
 - 💻 I also have experience in software development, including algorithm design and architecture simulator development.
-- 💾 I co-developed [OpenDRAM]([YOUR_OPENDRAM_LINK](https://github.com/FanosResearch/OpenDRAM)), an open-source high-performance DDR4 memory controller.
+- 💾 I co-developed [OpenDRAM](https://github.com/FanosResearch/OpenDRAM), an open-source high-performance DDR4 memory controller.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aliabbasi-engr/)
 
 
