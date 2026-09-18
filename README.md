@@ -2,14 +2,14 @@
 
 My name is Ali!
 
-I have just started making my way in engineering! (Someone who has recently started his graduate studies.😅)
+I’m a Ph.D. candidate in Electrical and Computer Engineering at McMaster University, focusing on hardware design and computer architecture.
 
-- 😊 I'm interested in the world of digital design!
-- 🌱 I’m currently working on AXI-compliant memory simulation and memory controllers.
-- 💬 Ask me about logic circuits, that's the art of my life!
-- 🎸 I'm an electric guitar player!
+- 😊 I'm interested in digital design, computer architecture, and memory systems.
+- 🌱 I’m currently working on DDR4 memory controllers, memory-system regulation, and hardware-software co-simulation.
+- ⚙️ I work with SystemVerilog, RTL design and verification, and FPGA prototyping.
+- 💻 I also have experience in software development, including algorithm design and architecture simulator development.
+- 💾 I co-developed [OpenDRAM]([YOUR_OPENDRAM_LINK](https://github.com/FanosResearch/OpenDRAM)), an open-source high-performance DDR4 memory controller.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aliabbasi-engr/)
-
 
 
 <!--
